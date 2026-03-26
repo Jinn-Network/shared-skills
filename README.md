@@ -10,6 +10,10 @@ npx skills add Jinn-Network/shared-skills
 
 ## Skills
 
-- `deploy-staking`
+- `olas-deploy-staking-contract`
 - `olas-staking`
 - `olas-registry`
+
+## Source Control
+
+See `SOURCE_OF_TRUTH.md` for single-source sync policy.

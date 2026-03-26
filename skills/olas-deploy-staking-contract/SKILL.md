@@ -1,5 +1,5 @@
 ---
-name: deploy-staking
+name: olas-deploy-staking-contract
 description: Deploy an OLAS-compatible staking program with a custom activity checker, register the associated agent, and nominate the staking contract for emissions. Designed for reusable deployment workflows without project-specific secrets or local-machine details.
 allowed-tools: Bash, Read, Edit, Write, Glob, Grep
 user-invocable: true
